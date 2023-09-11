@@ -112,7 +112,7 @@
       >
         <v-btn
           color="blue"
-          variant="خعفمهىثي"
+          variant="outlined"
           style="border-radius: 10px"
           class="w-50"
           @click="close"
