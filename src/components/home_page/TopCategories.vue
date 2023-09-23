@@ -29,9 +29,9 @@
             class="py-5 text-center"
             v-for="cat in catogires"
             :key="cat.title"
-            lg="2"
-            xl="2"
-            md="4"
+            cols="6"
+            md="2"
+            sm="4"
           >
             <v-card
               style="background: transparent"
